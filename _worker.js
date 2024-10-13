@@ -5287,5 +5287,5 @@ const clashConfigTemp = {
         "server": "time.apple.com",
         "port": 123,
         "interval": 30
-  }
+    }
 };
